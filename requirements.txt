@@ -4,3 +4,5 @@ keras==2.4.3
 tensorflow-cpu
 Pillow==8.1.0
 gunicorn
+h5py==2.10.0
+wheel==0.35
